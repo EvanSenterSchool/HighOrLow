@@ -43,13 +43,5 @@ public class Main {
             System.out.println("My number was " + randomNumber);
             System.out.println("You guess was too low");
         }
-
-
-
-
-
-
-
-
     }
 }
